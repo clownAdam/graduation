@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/clown-analysis/clown-analysis.iml" filepath="$PROJECT_DIR$/clown-analysis/clown-analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clown-common/clown-common.iml" filepath="$PROJECT_DIR$/clown-common/clown-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clown-producer/clown-producer.iml" filepath="$PROJECT_DIR$/clown-producer/clown-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/graduation.iml" filepath="$PROJECT_DIR$/.idea/graduation.iml" />
+    </modules>
+  </component>
+</project>
