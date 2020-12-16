@@ -8,5 +8,19 @@
     <artifactId>clown-producer</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <!--nexus 配置maven地址-->
+    <distributionManagement>
+        <repository>
+            <id>nexus-releases</id>
+            <name>Nexus Release Repository</name>
+            <url>http://120.26.185.44:8081/nexus/content/repositories/releases/</url>
+        </repository>
+        <snapshotRepository>
+            <id>nexus-snapshots</id>
+            <name>Nexus Snapshot Repository</name>
+            <url>http://120.26.185.44:8081/nexus/content/repositories/snapshots/</url>
+        </snapshotRepository>
+    </distributionManagement>
+
 
 </project>
